@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "SteamV4",
+        "name": "SteamV4",
+        "description": "BEST UTILLITY MOD MADE BY CLAUDE CODE.",
+        "version": "V4",
+        "url": "https://github.com/ugandatrololl-alt/SteamV4",
+        "updateUrl": "",
+        "authorList": [
+            "SteamTeam",
+        ],
+        "credits": "SteamTeam, RavenTeam ",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
